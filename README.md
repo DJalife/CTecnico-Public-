@@ -19,6 +19,7 @@ This repository was made exclusively to give a general look of the system for in
 I developed most of the parts of the original project, but I decided to not include those that I didn't make. To be exact, I didn't include the Login and Signup features.
 Those features were implemented late in development and they were poorly implemented, I had to do many fixes to make it work with what we already had.
 I also removed the code that makes the firebase connection work, for security concerns. While this project isn't really that important, I figure that I should try to keep best practices in mind as much as I can.
+This project was made using NodeJS, React-Native, Expo and Firebase.
 
 # Installation
 
